@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/History/FileContentIndex
+=======
+﻿.vs/
+>>>>>>> thanh
